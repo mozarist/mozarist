@@ -1,11 +1,9 @@
 ## Whoa you found me 👋
-<h1>Hello world, im Ahmad Azzam Mozarist</h1>
-<span>(Azzam/Mozarist/Arist)</span>
+<h1>Hello world, im Ahmad Azzam Mozarist</h1><h4>(Azzam/Mozarist/Arist)</h4>
 
 <h1 align="center">Hi 👋, I'm Mozarist</h1>
 <h3 align="center">A passionate frontend developer (learning how to backend too) from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
