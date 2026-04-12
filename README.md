@@ -1,4 +1,4 @@
-<h1>Hello world 👋 im Ahmad Azzam Mozarist</h1>
+## Hello world 👋 im Ahmad Azzam Mozarist
 Junior Fullstack Web Developer Based in Indonesia
 
 ---
@@ -19,15 +19,7 @@ Junior Fullstack Web Developer Based in Indonesia
 
 ---
 
-## 📊 GitHub Stats
-
-![Azzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mozarist\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozarist\&layout=compact\&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
+## 📫 Get in Touch
 
 * 📧 Email: [azzammozarist.xpro@gmail.com](mailto:azzammozarist.xpro@gmail.com)
 * 💼 Discord: mzrst
