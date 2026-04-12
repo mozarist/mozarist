@@ -1,14 +1,14 @@
 <h1>Hello world 👋 im Ahmad Azzam Mozarist</h1>
-# Junior Fullstack Web Developer Based in Indonesia
+Junior Fullstack Web Developer Based in Indonesia
 
 ---
 
 ## 👀 About Me
 
-* 🎓 Software Engineer Vocational High School Student
+* 🎓 Software Engineering major student at Pesat Vocational High School
 * 📱 Currently building mobile apps with **React Native (Expo)**
 * 🌐 Learning more about **Fullstack Development**
-* 🎯 Goal: Become a professional developer & build impactful products
+* ❤ Love modern design and frontend development
 
 ---
 
