@@ -1,7 +1,7 @@
-## Whoa you found me 👋
-<h1>Hello world, im Ahmad Azzam Mozarist</h1>
-Azzam/Mozarist/Arist
+## Hello world 👋
+<h1>im Ahmad Azzam Mozarist</h1>
+<h3>Junior Fullstack Web Developer Based in Indonesia</h3>
 
-<h3>Future fullstack dev</h3>
+## Languages and Tools I Use
 
-Based in Indonesia
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=javascript,php,typescript,html,laravel,nextjs,vite,tanstack,reactjs,reactnative,tailwindcss,alpinejs,lucide,git,shadcnui,github,visualstudiocode,figma,vercel)
