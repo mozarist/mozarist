@@ -19,6 +19,6 @@ Junior Fullstack Web Developer Based in Indonesia
 
 ---
 
-## (My Portfolio Showcase is under maintenance & uncompelted btw)
+## (My Portfolio Showcase is under maintenance & uncompleted btw)
 
 👍 *Thanks for visiting my profile!*
