@@ -1,4 +1,4 @@
-<h1>Hello world 👋 im Ahmad Azzam Mozarist</h1>
+<h1>Hello world 👋 im Mozarist</h1>
 Junior Fullstack Web Developer Based in Indonesia
 
 ---
@@ -19,14 +19,6 @@ Junior Fullstack Web Developer Based in Indonesia
 
 ---
 
-## 📫 Get in Touch
-
-* 📧 Email: [azzammozarist.xpro@gmail.com](mailto:azzammozarist.xpro@gmail.com)
-* 💼 Discord: mzrst
-* 🌐 Portfolio Showcase: (under maintenance)
-
-  Feel free to send me a dm 📨
-
----
+## (My Portfolio Showcase is under maintenance & uncompelted btw)
 
 👍 *Thanks for visiting my profile!*
