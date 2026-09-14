@@ -6,7 +6,6 @@ Junior Fullstack Web Developer Based in Indonesia
 ## 👀 About Me
 
 * 🎓 Software Engineering major student at Pesat Vocational High School
-* 📱 Currently building mobile apps with **React Native (Expo)**
 * 🌐 Learning more about **Fullstack Development**
 * ❤ Love modern design and frontend development
 
